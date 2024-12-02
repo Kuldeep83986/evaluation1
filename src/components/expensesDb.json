@@ -1,0 +1,9 @@
+{
+    "expenses": {
+        "id": 1,
+        "amount": 15000,
+        "description": "This is the first expense",
+        "category": "mkt",
+        "date": "2-12-2024"
+    }
+}
